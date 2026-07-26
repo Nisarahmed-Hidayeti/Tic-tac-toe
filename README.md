@@ -14,3 +14,6 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+=======
+# Tic-tac-toe
+simple Tic-tac-toe game
