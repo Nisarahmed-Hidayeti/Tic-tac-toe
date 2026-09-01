@@ -1,23 +1,34 @@
-# Tic Tac Toe 
+# Tic Tac Toe 🚀
 
-  Simple javascript based tic tac toe game
+A simple browser-based Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript.
 
-## Link
+Play against a friend on the same device and try to get three symbols in a row before your opponent does.
 
-https://majestic-croquembouche-4ec6cc.netlify.app/
+## Live Demo 🚀
 
-A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
+[Play Tic Tac Toe](https://majestic-croquembouche-4ec6cc.netlify.app/)
 
 ## Features
 
 - Two-player gameplay
-- Win detection
-- Responsive design
+- Automatic win detection
+- Draw detection
+- Responsive layout
+- Simple and lightweight interface
+- No frameworks or external dependencies
 
-## Technologies
+## Built With
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
----
+## How to Run
+
+You don't need to install anything.
+
+1. Clone the repository:
+
+```bash
+
+git clone https://github.com/Nisarahmed-Hidayeti/Tic-tac-toe.git
