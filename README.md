@@ -8,6 +8,11 @@ Play against a friend on the same device and try to get three symbols in a row b
 
 [Play Tic Tac Toe](https://majestic-croquembouche-4ec6cc.netlify.app/)
 
+## Picture
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd742c88-9a56-4fda-b717-7a57e3a0066c" />
+
+
 ## Features
 
 - Two-player gameplay
