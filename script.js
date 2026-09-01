@@ -270,8 +270,7 @@ gameElement.addEventListener("click", (e) => {
         box8 = "X"
         box9 = "X"
 
-        console.log("Kazanan = X")
-        kazanankişi.innerHTML = "Kazanan:X"
+        kazanankişi.innerHTML = "Winner: X"
         kazanan.style.opacity = "1"
         kazanan.style.zIndex = "1"
         sayıX++
@@ -288,8 +287,8 @@ gameElement.addEventListener("click", (e) => {
         box8 = "dsjad"
         box9 = "dsjad"
 
-        console.log("Beraberlik")
-        kazanankişi.innerHTML = "Beraberlik"
+        console.log("TIE")
+        kazanankişi.innerHTML = "TIE"
         kazanan.style.zIndex = "1"
         kazanan.style.opacity = "1"
     }
@@ -313,9 +312,7 @@ gameElement.addEventListener("click", (e) => {
         box7 = "O"
         box8 = "O"
         box9 = "O"
-
-        console.log("Kazanan = O")
-        kazanankişi.innerHTML = "Kazanan:O"
+        kazanankişi.innerHTML = "Winner: O"
         kazanan.style.zIndex = "1"
         kazanan.style.opacity = "1"
         sayıO++
@@ -338,7 +335,6 @@ butonum.addEventListener("click", (w) => {
     box7 = "BOŞ"
     box8 = "BOŞ"
     box9 = "BOŞ"
-    console.log("SKHSKFHKHFSK")
     kazanan.style.zIndex = "-1"
     kazanan.style.opacity = "0"
     tur = 0
