@@ -1,4 +1,10 @@
-# Tic Tac Toe https://majestic-croquembouche-4ec6cc.netlify.app/
+# Tic Tac Toe 
+
+  Simple javascript based tic tac toe game
+
+## Link
+
+https://majestic-croquembouche-4ec6cc.netlify.app/
 
 A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
@@ -15,6 +21,3 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ---
-
-# Tic-tac-toe
-simple Tic-tac-toe game
